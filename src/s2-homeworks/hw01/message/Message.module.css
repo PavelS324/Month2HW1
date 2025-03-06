@@ -2,8 +2,9 @@
 
 .message {
     max-width: 575px;
-    margin-right: 70px;
+    /*margin-right: 70px;*/
     margin-left: auto;
+    margin-top: 24px;
 
     display: flex;
     flex-direction: column;
